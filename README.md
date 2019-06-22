@@ -1,1 +1,2 @@
 # libreofficePrint.CS
+使用libreoffice进行打印文件的python代码，需要电脑中有libreoffice程序，可以使用服务端加客户端模式
